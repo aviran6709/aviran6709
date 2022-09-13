@@ -1,6 +1,6 @@
 - 👋 Hi, I'm Aviran
 - 🌱 I'm currently learning type script
-- 💞️ I'm looking to collaborate on fullstack task,  web\back
+- 💞️ I'm looking to collaborate on fullstack task,  front\back
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/dMLmQfCO7lCA2gX3tw/giphy.gif" width="500"/>
 </div>
