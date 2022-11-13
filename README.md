@@ -1,6 +1,15 @@
 - 👋 Hi, I'm Aviran
-- 🌱 I'm currently learning type script
-- 💞️ I'm looking to collaborate on fullstack task,  front\back
+
+🔭 I’m currently working on Something Intresting.
+
+🌱 I’m currently learning MERN Stack
+
+👯 I’m looking to collaborate for Dev Projects
+
+🤔 I’m looking for help with Competitive Programming
+
+👨‍💻 Life Hack: Learn new tech 🔥 and share what you have learned 🎉
+
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/dMLmQfCO7lCA2gX3tw/giphy.gif" width="500"/>
 </div>
